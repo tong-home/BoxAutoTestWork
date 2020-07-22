@@ -3,7 +3,7 @@
 # @Time : 2020/4/10 16:45
 # @Author : Carpe diem
 # @File : test.py
-"""
+
 
 import websocket
 import json
@@ -25,7 +25,7 @@ while i < len(contents):
     print("-------------------------")
     i = i+1
     ws.close()
-"""
+
 
 def bubble_sort(alist):
     for j in range(len(alist)-1,0,-1):
