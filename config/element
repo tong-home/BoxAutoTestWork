@@ -1,0 +1,14 @@
+[launcher]
+
+class  android.widget.TextView
+text   酒店活动
+resource-id    	com.jw.audiolauncher:id/fragment_title
+
+
+拨号页面：
+返回键   com.jw.audiolauncher:id/title_back
+拨号键盘   com.jw.audiolauncher:id/ry_dial_keyboard
+部门   id： com.jw.audiolauncher:id/tv_onekey_dial	    text：AI管家
+拨号按钮   com.jw.audiolauncher:id/rl_dial_button
+
+
